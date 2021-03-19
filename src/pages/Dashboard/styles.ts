@@ -40,7 +40,7 @@ export const Form = styled.form`
     transition: background-color 0.2s;
 
     &:hover {
-      background: ${shade(0.2, "#04D361")};
+      background: ${shade(0.2, '#04D361')};
     }
   }
 `;
@@ -63,7 +63,7 @@ export const Repositories = styled.div`
     transition: transform 0.2s;
 
     &:hover {
-      transform: translateX(10px)
+      transform: translateX(10px);
     }
 
     & + a {
