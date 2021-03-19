@@ -46,7 +46,6 @@
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
-    "@lukemorales/eslint-config": "1.0.15",
     "@types/react-router-dom": "^5.1.7",
     "@types/styled-components": "^5.1.8",
     "@typescript-eslint/eslint-plugin": "4.15.2",
